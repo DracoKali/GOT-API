@@ -1,0 +1,25 @@
+*{
+	margin-left: 0px auto;
+	margin-right: 0px auto;
+	background-image: url('image/gotImg.jpg'); 
+	overflow: hidden; 
+
+}
+h1{
+   color: red;
+
+}
+.info{
+
+   background-image: none;
+   background-color: black;
+   color: white;
+   overflow: hidden; 
+
+}
+.head{
+	color: red;
+}
+img{
+	overflow: hidden;
+}
